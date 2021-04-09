@@ -1,0 +1,16 @@
+p{
+font-family: "Times New Roman", Times, serif;
+letter-spacing: 2px;
+font-size: 110%;
+font-weight: 400;
+color: 	#00008B;
+}
+a{
+color: 	#ff0000;
+}
+a:hover {
+  background-color: yellow;
+}
+a:visited {
+  color: green;
+}
