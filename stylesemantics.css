@@ -17,19 +17,15 @@ a:visited {
 }
 
 body{
-
-
   background: -webkit-linear-gradient(19deg, rgb(196, 201, 217), rgb(237, 106, 27));
-
-
-
-
 }
+
 q {
+
  width: 45%;
- margin : auto;
+ margin-top: 40px;
+ margin-bottom: 40px;
  font-size : 160%;
- border-left: 3px solid #FF0000;
 background-color: #CDCDCD;
 padding: 10px;
 padding-top: 3px;
@@ -38,10 +34,35 @@ font-style: italic;
 }
 
 q.farmer {
-
+border-left: 3px dashed yellow;
 
 }
 q.villagers {
+border-left: 3px dashed green;
+}
 
+header:first-child{
+background-color: yellow;
+}
+
+.good {
+text-transform: capitalize;
+color: red;
+}
+.bad {
+text-transform: capitalize;
+color: green;
+}
+.tablegrey {
+background: grey;
+}
+.tablewhite {
+background :white;
+}
+.paragraph1 {
+font-weight: bold;
+}
+.imagetest {
+float: right;
 
 }
