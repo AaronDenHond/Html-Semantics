@@ -3,4 +3,4 @@
 First finished version of HTML Semantics,no errors
 =======
 
-https://aarondenhond.github.io/Html-Semantics/
+https://aarondenhond.github.io/progressive-enhancement/
